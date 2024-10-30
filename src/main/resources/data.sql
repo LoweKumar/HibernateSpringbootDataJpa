@@ -1,0 +1,23 @@
+INSERT INTO sys.product_table(price, quantity, sku, title_x)
+VALUES
+    (10.0, 10, 'cookie001', 'Chocolate Chip Cookie'),
+    (15.5, 20, 'chips001', 'Potato Chips'),
+    (9.99, 50, 'soda001', 'Orange Soda'),
+    (7.5, 30, 'water001', 'Bottled Water'),
+    (11.2, 15, 'cereal001', 'Corn Flakes'),
+    (8.0, 25, 'candy001', 'Gummy Bears'),
+    (5.5, 60, 'gum001', 'Chewing Gum'),
+    (13.0, 12, 'cake001', 'Chocolate Cake'),
+    (20.0, 8, 'bread001', 'Whole Wheat Bread'),
+    (3.99, 100, 'fruit001', 'Apple'),
+    (6.49, 40, 'fruit002', 'Banana'),
+    (18.0, 5, 'juice001', 'Orange Juice'),
+    (12.0, 18, 'milk001', 'Almond Milk'),
+    (9.75, 22, 'snack001', 'Granola Bar'),
+    (4.25, 35, 'candy002', 'Lollipop'),
+    (22.0, 7, 'pasta001', 'Pasta'),
+    (30.0, 6, 'oliveoil001', 'Olive Oil'),
+    (2.5, 80, 'spice001', 'Chili Powder'),
+    (14.5, 9, 'chocolate001', 'Dark Chocolate'),
+    (8.99, 14, 'tea001', 'Green Tea'),
+    (5.75, 45, 'sauce001', 'Tomato Sauce');
